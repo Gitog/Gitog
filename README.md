@@ -10,6 +10,7 @@
 - 😄 Pronouns: Mr, He, Him
 
 ** ⚡ Fun fact**
+
 😎The first language I used to program "Hello World" was C++
 
 🔁I've always loved researching(technology related) and watching cartoons
@@ -17,4 +18,10 @@
 🥇I'm interested in Cyber Security and hope someday I'll dive in.
 
 ##My Current Tech Stack
+![HTML]{}
+![CSS]{}
+![BOOTSTRAP]{}
+![JAVASCRIPT]{}
+![REACT]{}
+![RUBY on RAILS]{}
 
