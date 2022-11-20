@@ -1,4 +1,8 @@
-### Hi there 👋
+### 👋 Hey, I'm James
+
+I'm a software engineer with a love for both frontend web development and backend development.
+
+- 🔭 I’m currently working with React and Ruby on Rails to create easy-to-use complete web apps.
 
 <!--
 **Gitog/Gitog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
