@@ -19,9 +19,12 @@
 
 ##My Current Tech Stack
 ![HTML]{}
-![CSS]{}
+![TAILWINDCSS]{}
 ![BOOTSTRAP]{}
 ![JAVASCRIPT]{}
 ![REACT]{}
+![NEXTJS]{}
+![MYSQL/SQLITE]{}
+![PRISMA ORM]{}
 ![RUBY on RAILS]{}
 
