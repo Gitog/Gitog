@@ -18,12 +18,11 @@
 🥇I'm interested in Cyber Security and hope someday I'll dive in.
 
 ##My Current Tech Stack
-![HTML]{}
+![Flutter]{}
 ![TAILWINDCSS]{}
 ![BOOTSTRAP]{}
 ![JAVASCRIPT]{}
 ![REACT]{}
-![NEXTJS]{}
 ![MYSQL/SQLITE]{}
 ![PRISMA ORM]{}
 ![Laravel]{}
